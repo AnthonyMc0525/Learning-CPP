@@ -1,4 +1,4 @@
-# This Repository is for the use of any one.
+# Learning C++
 
 you need a compiler to be able to run c++ code
 I am on mac, so I use x-code 
